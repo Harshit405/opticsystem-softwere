@@ -1,0 +1,89 @@
+OptiSystem 7.0 Release Notes
+
+IMPORTANT - PLEASE READ ME
+
+Installation Notes and Known Issues
+
+Installation:
+
+	• It is highly recommended that all previous versions of OptiSystem or
+OptiSys_Design be removed before starting the installation of OptiSystem 7.0
+
+	• If the length of the installation directory path is too long, it can cause the
+installation to fail. To avoid this, it is recommended that you not exceed the length
+of the default installation path.
+	• During reinstallation, after removal of the application you may receive an
+error message. Simply click OK on the 'Installation Failed' screen, and proceed as
+normal.
+
+	• Back up your data before installing OptiSystem 7.0 if you are a current user
+of OptiSystem 6.0 or earlier. The software installation program supplies a complete
+set of samples. These samples could overwrite the contents of the samples
+directory from previous versions of OptiSystem found on your computer. If you
+have data in the OptiSystem samples directory you want to keep, please make a
+copy of your samples directory before installing OptiSystem 7.0 to avoid losing
+your data.
+
+	• If you are using Windows XP WITHOUT Service Pack 1, the USB Protection
+Key drivers may not install properly. This will cause the application to fail with
+an error #102. In addition, in the Device Manager, there will be device called
+Security Token or USB Token that is known to have problems. If the installation
+fails, please run the Sentinel Driver 32-bit Setup.exe file that is included on the
+installation CD in the MISC subfolder.
+
+
+Minimum hardware and software requirements:
+	• PC with Pentium 3 processor or equivalent
+	• Microsoft Windows 2000, XP or Vista. 32-bit or 64-bit edition
+	• 400 MB free hard disk space
+	• 1024 x 768 graphic resolution, minimum 65536 colors
+		• 128 MB of RAM (recommended)
+	• Internet Explorer 5.5 (or higher)
+	• DirectX 8.1 (or higher)
+
+Application Execution:
+
+	• When running OptiSystem under a Restricted User Profile, place all sample
+files in the Restricted User's folder, or wherever the user has Read/Write
+access. It may also be necessary to remove the Read-only flag from the file after
+the copy is made. This has to do with file permissions - OptiSystem needs to
+open the file in a read/write mode.
+Please contact your network administrator if you need assistance with this.
+
+	• If you are using Windows Vista you may have problems accessing OptiSystem samples. 
+To avoid Windows Vista problems when accessing one's own
+Program Files folder, please make a copy of the samples directory to another
+folder; just make sure the directory is not in a folder under Program Files.
+
+	• There are some MATLAB files (.m) included that are necessary to make
+the samples work properly. Another important point - the path in the MATLAB
+search path (Main tab of the Matlab component) has to be updated with the path
+to the Matlab files, otherwise the sample will not work.
+
+	• In order for the OptiSystem Online Help to function properly, Adobe Acrobat
+Reader must be installed. To get the latest version please visit the Adobe
+website at http://www.adobe.com/, or install from the version that is provided on
+the OptiSystem Installation CD.
+
+	• Some computers provide a power saving feature, Hibernation. If available,
+this feature is controlled by opening Power Options in Control Panel. Clicking the
+Hibernate tab, and then selecting the Enable hibernate turns it on. After the computer
+goes into hibernation, it won't find the Optiwave protection key, and the simulation
+will stop with a message that the protection key can't be found. Disable the
+hibernation feature of the computer in order to avoid this problem.
+
+	• If you are using Windows Vista you may have problems visualizing the axis
+x title of Quick View Graphs due to border padding. It may be necessary to
+remove or reduce the size of the border padding so you can visualize the graph
+title. In the Advanced Appearance dialog box, scroll through the Item list until you
+find the Border Padding item. Select the Border Padding item and then reduce the
+the size to one or zero.
+
+	• New OptiSystem sample files are available in the Optiwave Community
+Forum: http://www.optiwave.us/system/optisystem.html.
+
+	• OptiSystem 7.0 now supports OptiPerformer 7.0 file export. OptiPerformer
+can be downloaded from the official Optiwave website: http://www.optiwave.com/.
+
+For a complete new feature listing, please refer to the "What's new in OptiSystem
+7.0" section of the Getting Started document, included with OptiSystem.

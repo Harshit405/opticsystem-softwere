@@ -1,0 +1,41 @@
+IMPORTANT - READ CAREFULLY BEFORE USING THIS PRODUCT:  The term "Software Product" includes all copies of the Optiwave Software and its documentation.  This license agreement is a legal agreement between you (either an individual or entity) ("the Licensee") and Optiwave (the "Licensor") for the Software Product.  By installing, copying, or otherwise using the Software Product, you agree to be bound by the terms of this license.  If you do not agree to the terms of this license, promptly return the unused Software Product for a full refund.  This is a non-exclusive license, not a sale.
+
+
+A. LICENSEE MAY: 
+* install for use one copy of the Software Product, or in its place, any version for the same operating system (Windows XP, or Windows Vista), on a single computer, for use by a single user at a time.  If the Licensee wishes to use the Software Program for more users or run the Software Program on a network server, the Licensee will need a further license for each user or separate computer on which the Software Product is installed or run on the network server.  A license for the Software Product may not be shared or used concurrently on different computers.  
+* make one copy of the Software Product for archive or back-up purposes.
+
+B. LICENSEE MAY NOT:
+* use the Software Product or make copies of it except as permitted in this license;
+* transfer the Software Product;
+* publish, translate, create derivative products based on the programming code or any portion thereof, reverse engineer, decompile or disassemble the Software Product, except to the extent the foregoing restriction is expressly prohibited by applicable law;
+* reveal confidential information, data, drawings, specifications, documentation, software listings, source or object code which the Licensor may have imparted and may from time to time impart to the Licensee relating to the Software Product;  
+* assign, distribute, modify, merge all or any part of the Software Product into another program or product, enhance, copy, sell, lease, license, sub-license, export or re-export, grant other rights in or otherwise deal with the Software Product itself or through any subsidiary, agent or third party;
+* transmit the Software Product over a network or intranet, by telephone, or electronically or provide use of the Software or any portion thereof in a time sharing, interactive cable television, multiple CPU service bureau or any public computer-based information system or public electronic bulletin board, including without limitation the Internet and World Wide Web.
+
+C. LICENSEE UNDERTAKES:
+* to maintain accurate and up-to-date records of the number and location of all copies of the Software Product;
+* to supervise and control use of the Software Product in accordance with the terms of this license;
+* to reproduce and include the Licensor's copyright notice on all and any authorized copies, whether in whole or in part;
+* not to provide the Software Product in any form to any person other than the Licensee's employees without prior written consent of the Licensor;
+* within fourteen (14) days after the termination or discontinuance of this license to return or destroy (as the Licensor shall instruct) the Software Product and all copies;
+* to keep confidential and use its best efforts to prevent and protect the contents of the Software Product from unauthorized disclosure or use.
+
+D.  LIMITATION OF WARRANTIES AND LIABILITY
+* Licensor warrants that for 90 days from the date of shipment the storage medium on which the Software Product is contained will be free from defects in materials and workmanship.  If such defect occurs the Licensee may return the Software Product to the Licensor with a description of the problem and the defective storage media will be replaced for free or at Licensor's option the Licensee will receive a full refund.  This remedy is the Licensee's exclusive remedy for breach of this warranty. 
+* OTHER THAN THE ABOVE-NOTED WARRANTY, THE SOFTWARE PRODUCT AND ACCOMPANYING WRITTEN MATERIALS (INCLUDING INSTRUCTIONS FOR USE) ARE PROVIDED "AS IS" WITHOUT ANY ADDITIONAL WARRANTY OF ANY KIND, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABLE QUALITY, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, OR THOSE ARISING BY LAW OR STATUTE.   THE LICENSOR DOES NOT WARRANT, GUARANTEE OR MAKE ANY REPRESENTATIONS REGARDING THE USE OR THE RESULTS OF USE OF THE SOFTWARE PRODUCT OR WRITTEN MATERIALS IN TERMS OF CORRECTNESS, ACCURACY, RELIABILITY, CURRENTNESS OR OTHERWISE.  THE LICENSEE ASSUMES THE ENTIRE RISK AS TO THE RESULTS AND PERFORMANCE OF THE SOFTWARE PRODUCT.  CONSEQUENTLY, THE LICENSOR SHALL NOT BE LIABLE TO THE LICENSEE FOR ANY LOSS OR DAMAGE ARISING DIRECTLY OR INDIRECTLY IN CONNECTION WITH THIS LICENSE, THE SOFTWARE PRODUCT, ITS USE, OR OTHERWISE. 
+* TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR EXPRESSLY EXCLUDES LIABILITY FOR ANY SPECIAL, DIRECT, INDIRECT, INCIDENTAL OR CONSEQUENTIAL LOSS OR DAMAGE, WHICH MAY ARISE IN RESPECT OF THE SOFTWARE PRODUCT, ITS USE OR INABILITY TO USE, THE SYSTEM ON WHICH THE SOFTWARE PRODUCT IS USED OR OTHERWISE, INCLUDING BUT NOT LIMITED TO LOSS OF REVENUE OR PROFIT, LOST OR DAMAGED DATA OR OTHER COMMERCIAL OR ECONOMIC LOSS, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF LOSS OR THE LOSS IS FORESEEABLE.
+ 	   
+E.    PATENTS, TRADEMARKS, COPYRIGHT, AND INTELLECTUAL PROPERTY RIGHTS
+* The Licensee acknowledges that any and all of the trademarks, trade names, copyrights, patents and other intellectual property rights used or embodied in or in connection with the Software Product shall be and remain the sole property of the Licensor.  The Licensee shall not during or at any time after expiry or termination of this license in any way question or dispute the ownership by the Licensor of any such rights.
+
+
+F. GENERAL
+* This License is effective for as long as the Licensee uses the Software Product and shall extend to any updates or new releases of the Software Product obtained by the Licensee from the Licensor or its authorized distributors, if any, subject to any amendments made from time to time by the Licensor and provided to the Licensee.  Notwithstanding the foregoing, nothing in this license shall be construed as creating an obligation for the Licensor to undertake or provide, updates, new releases, modifications or additions.
+* This license may be terminated by the Licensor in the event that the Licensee does not comply with any terms or conditions of this license.  Notwithstanding such termination, the limitations on warranties and liabilities, the undertakings by the Licensee, as regards confidentiality of the content of the Software Product and intellectual property, as set out above shall continue to remain in force.
+* This License represents the entire licensing agreement between the parties and supercedes any prior license agreement, including but not limited to, the Software Evaluation License Agreement
+* The Licensee is responsible for the installation, management and operation of the Software Product.
+* If any provision of this license is declared by a Court of competent jurisdiction to be invalid, illegal, or unenforceable, such provision shall be severed from the license and the other provisions shall remain in full force and effect.
+* The parties hereby agree that this license concluded between them and constituted on these terms and conditions shall be construed in accordance with the laws of the province of Ontario, and each of the parties hereto irrevocably attorns to the jurisdiction of the courts of the Province of Ontario with respect to any matter which may arise under this license.
+
+
